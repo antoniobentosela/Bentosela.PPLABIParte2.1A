@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1589381733 source:c:\users\sabrina\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589986156 source:c:\users\sabrina\desktop\sabrina\antonio\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"trabajos.h"
+	"hardcodeos.h"
+
+1589986156 source:c:\users\sabrina\desktop\sabrina\antonio\parcial\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"hardcodeos.h"
+
+1589979049 c:\users\sabrina\desktop\sabrina\antonio\parcial\bicicleta.h
+	"tipos.h"
+	"color.h"
+	"hardcodeos.h"
+
+1589910957 c:\users\sabrina\desktop\sabrina\antonio\parcial\tipos.h
+
+1589910957 c:\users\sabrina\desktop\sabrina\antonio\parcial\color.h
+
+1589911572 source:c:\users\sabrina\desktop\sabrina\antonio\parcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1589911597 source:c:\users\sabrina\desktop\sabrina\antonio\parcial\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
+1589984673 source:c:\users\sabrina\desktop\sabrina\antonio\parcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1589911481 c:\users\sabrina\desktop\sabrina\antonio\parcial\servicio.h
+
+1589983197 c:\users\sabrina\desktop\sabrina\antonio\parcial\trabajos.h
+	"bicicleta.h"
+	"servicio.h"
+
+1589983807 source:c:\users\sabrina\desktop\sabrina\antonio\parcial\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajos.h"
+
+1589979377 c:\users\sabrina\desktop\sabrina\antonio\parcial\hardcodeos.h
+
